@@ -21,8 +21,6 @@ int main() {
 
     std::cout << countOfeven << std::endl;
 
-    delete[] array;
-
     return 0;
 
 }
